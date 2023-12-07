@@ -1,0 +1,60 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.columna-der {
+    flex: 1;
+    margin-left: 0%
+}
+
+.columna-izq {
+    flex: 1;
+    margin-right: 05%;
+}
+
+img {
+    display: block;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+section {
+    margin-bottom: 05%;
+}
+.item h4, p {
+    display: inline-block;
+    margin-bottom: 0%;
+}
+
+.pedido {
+    text-align: left;
+    width: 85%;
+}
+
+.precio {
+    text-align: right;
+    width: 15%;
+}
+
+.detalle {
+    text-align: left;
+    margin-top: 0%;
+}
+
+hr {
+    margin-top: 05%;
+}
+
+.wifi {
+    display: block;
+    text-align: center;
+}
